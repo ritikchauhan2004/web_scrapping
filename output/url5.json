@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "source_url": "https://www.macrotrends.net/2577/sp-500-pe-ratio-price-to-earnings-chart",
+    "extraction_timestamp": "2025-12-25T23:38:38.504758",
+    "page_type": "unknown",
+    "data_quality_score": 0.7
+  },
+  "structured_data": {
+    "url": "https://www.macrotrends.net/2577/sp-500-pe-ratio-price-to-earnings-chart",
+    "title": "S&P 500 PE Ratio - 90 Year Historical Chart | MacroTrends",
+    "tables": [
+      {
+        "table_id": "dynamic_table_1",
+        "headers": [
+          "Link Preview",
+          "HTML Code (Click to Copy)"
+        ],
+        "rows": [
+          [
+            "S&P 500 PE Ratio - 90 Year Historical Chart",
+            ""
+          ],
+          [
+            "Macrotrends",
+            ""
+          ],
+          [
+            "Source",
+            ""
+          ]
+        ],
+        "structured_rows": [
+          {
+            "link_preview": "S&P 500 PE Ratio - 90 Year Historical Chart",
+            "html_code_click_to_copy": ""
+          },
+          {
+            "link_preview": "Macrotrends",
+            "html_code_click_to_copy": ""
+          },
+          {
+            "link_preview": "Source",
+            "html_code_click_to_copy": ""
+          }
+        ],
+        "row_count": 3,
+        "column_count": 2
+      },
+      {
+        "table_id": "dynamic_table_2",
+        "headers": [
+          "Link Preview",
+          "HTML Code (Click to Copy)"
+        ],
+        "rows": [
+          [
+            "S&P 500 PE Ratio - 90 Year Historical Chart",
+            ""
+          ],
+          [
+            "Macrotrends",
+            ""
+          ],
+          [
+            "Source",
+            ""
+          ]
+        ],
+        "structured_rows": [
+          {
+            "link_preview": "S&P 500 PE Ratio - 90 Year Historical Chart",
+            "html_code_click_to_copy": ""
+          },
+          {
+            "link_preview": "Macrotrends",
+            "html_code_click_to_copy": ""
+          },
+          {
+            "link_preview": "Source",
+            "html_code_click_to_copy": ""
+          }
+        ],
+        "row_count": 3,
+        "column_count": 2
+      }
+    ],
+    "dynamic_content": {
+      "lists": [],
+      "cards": [],
+      "dynamic_elements": []
+    },
+    "screenshot": "output\\url5_screenshot.png",
+    "screenshot_filename": "url5_screenshot.png",
+    "processing_metadata": {
+      "page_type": "DYNAMIC",
+      "extraction_timestamp": "2025-12-25T23:38:38.265156",
+      "processing_time_seconds": 90.13
+    }
+  },
+  "analysis": {
+    "summary": "Data extracted without LLM normalization",
+    "key_findings": [],
+    "recommended_uses": [
+      "Further analysis required"
+    ]
+  },
+  "extraction_metadata": {
+    "url": "https://www.macrotrends.net/2577/sp-500-pe-ratio-price-to-earnings-chart",
+    "page_type": "DYNAMIC",
+    "extraction_method": "Playwright + BeautifulSoup",
+    "total_processing_time": 90.37,
+    "timestamp": "2025-12-25T23:38:38.505090",
+    "output_files": {
+      "json": "url5.json",
+      "screenshot": "url5_screenshot.png"
+    }
+  }
+}
