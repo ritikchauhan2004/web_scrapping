@@ -1,0 +1,87 @@
+2025-12-25 23:31:44,330 [INFO] WebScraper - WEB DATA EXTRACTION SYSTEM
+2025-12-25 23:31:44,334 [INFO] WebScraper - Loaded 6 URLs from urls.txt
+2025-12-25 23:31:44,336 [INFO] WebScraper - 
+[1/6] Processing URL: https://coinmarketcap.com
+2025-12-25 23:31:44,337 [INFO] WebScraper - Processing URL: https://coinmarketcap.com
+2025-12-25 23:31:46,876 [INFO] WebScraper - Detected page type: DYNAMIC
+2025-12-25 23:31:46,878 [INFO] WebScraper - Using Dynamic Extractor (Playwright) for: https://coinmarketcap.com
+2025-12-25 23:31:53,776 [INFO] WebScraper - Loading page with strategy: networkidle
+2025-12-25 23:32:26,336 [INFO] WebScraper - Clicked interactive elements for data expansion
+2025-12-25 23:32:42,896 [INFO] WebScraper - Screenshot saved: url1_screenshot.png
+2025-12-25 23:32:51,026 [INFO] WebScraper - Extracted 1 tables from dynamic content
+2025-12-25 23:32:52,024 [INFO] WebScraper - Normalizing data with Gemini LLM
+2025-12-25 23:32:58,999 [INFO] WebScraper - 
+[2/6] Processing URL: https://www.worldometers.info/coronavirus/
+2025-12-25 23:32:59,009 [INFO] WebScraper - Processing URL: https://www.worldometers.info/coronavirus/
+2025-12-25 23:33:05,803 [INFO] WebScraper - Detected page type: DYNAMIC
+2025-12-25 23:33:05,804 [INFO] WebScraper - Using Dynamic Extractor (Playwright) for: https://www.worldometers.info/coronavirus/
+2025-12-25 23:33:12,396 [INFO] WebScraper - Loading page with strategy: networkidle
+2025-12-25 23:33:33,397 [INFO] WebScraper - Clicked interactive elements for data expansion
+2025-12-25 23:33:47,550 [INFO] WebScraper - Screenshot saved: url2_screenshot.png
+2025-12-25 23:33:55,018 [INFO] WebScraper - Extracted 3 tables from dynamic content
+2025-12-25 23:33:55,189 [INFO] WebScraper - Normalizing data with Gemini LLM
+2025-12-25 23:33:58,172 [INFO] WebScraper - 
+[3/6] Processing URL: https://en.wikipedia.org/wiki/List_of_countries_by_population
+2025-12-25 23:33:58,175 [INFO] WebScraper - Processing URL: https://en.wikipedia.org/wiki/List_of_countries_by_population
+2025-12-25 23:34:02,295 [INFO] WebScraper - Detected page type: DYNAMIC
+2025-12-25 23:34:02,296 [INFO] WebScraper - Using Dynamic Extractor (Playwright) for: https://en.wikipedia.org/wiki/List_of_countries_by_population
+2025-12-25 23:34:08,322 [INFO] WebScraper - Loading page with strategy: networkidle
+2025-12-25 23:34:28,949 [INFO] WebScraper - Clicked interactive elements for data expansion
+2025-12-25 23:35:07,166 [WARNING] WebScraper - Full page screenshot failed, trying viewport screenshot: Page.screenshot: Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+2025-12-25 23:35:13,702 [INFO] WebScraper - Viewport screenshot saved: url3_screenshot.png
+2025-12-25 23:35:18,375 [INFO] WebScraper - Extracted 3 tables from dynamic content
+2025-12-25 23:35:18,469 [INFO] WebScraper - Normalizing data with Gemini LLM
+2025-12-25 23:35:20,930 [INFO] WebScraper - 
+[4/6] Processing URL: https://en.wikipedia.org/wiki/Demographics_of_India
+2025-12-25 23:35:20,931 [INFO] WebScraper - Processing URL: https://en.wikipedia.org/wiki/Demographics_of_India
+2025-12-25 23:35:25,322 [INFO] WebScraper - Detected page type: DYNAMIC
+2025-12-25 23:35:25,322 [INFO] WebScraper - Using Dynamic Extractor (Playwright) for: https://en.wikipedia.org/wiki/Demographics_of_India
+2025-12-25 23:35:29,878 [INFO] WebScraper - Loading page with strategy: networkidle
+2025-12-25 23:36:20,725 [INFO] WebScraper - Clicked interactive elements for data expansion
+2025-12-25 23:37:00,715 [WARNING] WebScraper - Full page screenshot failed, trying viewport screenshot: Page.screenshot: Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+2025-12-25 23:37:01,330 [INFO] WebScraper - Viewport screenshot saved: url4_screenshot.png
+2025-12-25 23:37:05,285 [INFO] WebScraper - Extracted 54 tables from dynamic content
+2025-12-25 23:37:05,382 [INFO] WebScraper - Normalizing data with Gemini LLM
+2025-12-25 23:37:08,130 [INFO] WebScraper - 
+[5/6] Processing URL: https://www.macrotrends.net/2577/sp-500-pe-ratio-price-to-earnings-chart
+2025-12-25 23:37:08,131 [INFO] WebScraper - Processing URL: https://www.macrotrends.net/2577/sp-500-pe-ratio-price-to-earnings-chart
+2025-12-25 23:37:09,859 [INFO] WebScraper - Detected page type: DYNAMIC
+2025-12-25 23:37:09,859 [INFO] WebScraper - Using Dynamic Extractor (Playwright) for: https://www.macrotrends.net/2577/sp-500-pe-ratio-price-to-earnings-chart
+2025-12-25 23:37:13,097 [INFO] WebScraper - Loading page with strategy: networkidle
+2025-12-25 23:38:13,127 [INFO] WebScraper - Loading page with strategy: load
+2025-12-25 23:38:23,546 [INFO] WebScraper - Clicked interactive elements for data expansion
+2025-12-25 23:38:36,341 [INFO] WebScraper - Screenshot saved: url5_screenshot.png
+2025-12-25 23:38:38,206 [INFO] WebScraper - Extracted 2 tables from dynamic content
+2025-12-25 23:38:38,265 [INFO] WebScraper - Normalizing data with Gemini LLM
+2025-12-25 23:38:40,551 [INFO] WebScraper - 
+[6/6] Processing URL: https://en.wikipedia.org/wiki/Cricket
+2025-12-25 23:38:40,552 [INFO] WebScraper - Processing URL: https://en.wikipedia.org/wiki/Cricket
+2025-12-25 23:38:43,073 [INFO] WebScraper - Detected page type: DYNAMIC
+2025-12-25 23:38:43,073 [INFO] WebScraper - Using Dynamic Extractor (Playwright) for: https://en.wikipedia.org/wiki/Cricket
+2025-12-25 23:38:45,717 [INFO] WebScraper - Loading page with strategy: networkidle
+2025-12-25 23:39:07,373 [INFO] WebScraper - Clicked interactive elements for data expansion
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+2025-12-25 23:39:52,282 [INFO] WebScraper - Viewport screenshot saved: url6_screenshot.png
+2025-12-25 23:39:53,891 [INFO] WebScraper - Extracted 32 tables from dynamic content
+2025-12-25 23:39:53,976 [INFO] WebScraper - Normalizing data with Gemini LLM
+2025-12-25 23:39:54,534 [INFO] WebScraper - EXTRACTION REPORT
+2025-12-25 23:39:54,535 [INFO] WebScraper - Total URLs processed: 6
+2025-12-25 23:39:54,536 [INFO] WebScraper - Successful: 6
+2025-12-25 23:39:54,536 [INFO] WebScraper - Failed: 0
+2025-12-25 23:39:54,537 [INFO] WebScraper - Average processing time: 79.90s
+2025-12-25 23:39:54,709 [INFO] WebScraper - Report saved to: output\extraction_report_20251225_233954.json
+2025-12-25 23:39:54,709 [INFO] WebScraper - EXTRACTION COMPLETED
